@@ -1,4 +1,4 @@
-# Assignment Sub-task 3 (Student Records Management) - Kosmas Nikolaos - AM: 169560
+#  (Student Records Management)
 
 # This function displays a menu with the options available in the program. ----->
 # -----> It prints options 1-5 (Add new student, Display all students, Delete student, Search for student by ID, Exit).
